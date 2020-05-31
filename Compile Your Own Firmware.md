@@ -9,12 +9,12 @@
     - [EA6350v3](#linksys-ea6350v3)
       - [Switch Partition to Stock Firmware Linksys EA6350v3](#switch-partition-to-stock-firmware-linksys-ea6350v3)
       - [Compile Linksys EA6350v3 Firmware](#compile-linksys-ea6350v3-firmware)
-      [Linksys WRT1900ACSv2](#linksys-wrt1900acsv2)
+    - [Linksys WRT1900ACSv2](#linksys-wrt1900acsv2)
+      - [Switch Partition to Stock Firmware Linksys WRT1900ACSv2](#switch-partition-to-stock-firmware-linksys-wrt1900acsv2)    
       - [Compile Linksys WRT1900ACSv2 Firmware](#compile-linksys-wrt1900acsv2-firmware)
-      - [Switch Partition to Stock Firmware Linksys EA6350v3](#switch-partition-to-stock-firmware-linksys-wrt1900acsv2)
 - [How To Use the diff file](#how-to-use-the-diff-file)
 
-## prerequisites
+## Prerequisites
 If you're running a Windows OS you will need access to a Linux PC to compile the final firmware. I personally use Ubuntu 20.04 x64 Desktop in a virtual enviroment on top of my Windows 10 Pro x64 OS. If you don't have access to a physcial Linux PC don't worry as you could potenitally run a virtual machine in your Windows OS using VMWare Workstation player or Oracle VirtualBox like I do, so long as you have enough hardware resources.
 
 ### Downloads
