@@ -46,7 +46,7 @@ Run the following steps in order:-
 
 5. ```git clone https://github.com/TheSurgeNetwork/Pre-compiled-OpenWrt-Firmware.git "Pre-compiled OpenWrt Firmware"```
 
-6. ```cd v19.07.3/EA6350v3 && git checkout v19.07.3```
+6. ```cd v19.07.3/EA6350v3 && git fetch --tags && git checkout openwrt-v19.07```
 
 7. ```./scripts/feeds update -a && ./scripts/feeds install -a```
 
@@ -135,7 +135,7 @@ Run the following steps in order:-
 
 5. ```git clone https://github.com/TheSurgeNetwork/Pre-compiled-OpenWrt-Firmware.git "Pre-compiled OpenWrt Firmware"```
 
-6. ```cd v19.07.3/WRT1900ACSv2 && git checkout v19.07.3```
+6. ```cd v19.07.3/EA6350v3 && git fetch --tags && git checkout openwrt-v19.07```
 
 7. ```./scripts/feeds update -a && ./scripts/feeds install -a```
 
